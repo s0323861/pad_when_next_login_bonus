@@ -1,4 +1,4 @@
-## パズドラ 次回のログインボーナス日を計算します
+## 【パズドラ】次のログインボーナス日を計算します
 
 A simple PHP app to figure out your next login bonus date of "Puzzle and Dragons"
 
