@@ -1,4 +1,4 @@
-## ƒpƒYƒhƒ‰ Ÿ‰ñ‚ÌƒƒOƒCƒ“ƒ{[ƒiƒX“ú‚ğŒvZ‚µ‚Ü‚·
+## ãƒ‘ã‚ºãƒ‰ãƒ© æ¬¡å›ã®ãƒ­ã‚°ã‚¤ãƒ³ãƒœãƒ¼ãƒŠã‚¹æ—¥ã‚’è¨ˆç®—ã—ã¾ã™
 
 A simple PHP app to figure out your next login bonus date of "Puzzle and Dragons"
 
@@ -10,9 +10,9 @@ A simple PHP app to figure out your next login bonus date of "Puzzle and Dragons
 
 ### Demo
 
-  - http://tool.tsukuba42195.top/pad_login_bonus.php
+  - http://s0323861.moo.jp/tools/pad/
 
 
 ### Licence
 
-  - Copyright 2016 Akira Mukai. Licensed under the MIT License
+  - Copyright 2021 Akira Mukai. Licensed under the MIT License
